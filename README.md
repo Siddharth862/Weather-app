@@ -48,5 +48,5 @@ weather-app/
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any queries or suggestions, feel free to contact [Your Name] at your.email@example.com.
+For any queries or suggestions, feel free to contact Siddharth Gupta at sgkumar6300@gmail.com .
 
